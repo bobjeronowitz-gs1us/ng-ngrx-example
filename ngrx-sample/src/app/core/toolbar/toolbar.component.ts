@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./toolbar.component.scss']
 })
 export class ToolbarComponent {
-  labTitle = 'ngrx-demo';
-  labState = 'Using the redux pattern with NgRx';
+  labTitle = 'NGRX Demo';
+  labState = 'Using the State Management with NgRx';
 }
